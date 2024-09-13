@@ -71,7 +71,7 @@ public class StudentInsertController {
                 }break;
 
                 default:
-                    System.out.println("Invalid Option!!!!! Try again");
+                    System.out.println("Invalid Option!!!!! Try again!!");
             }
             System.out.println("Press y/Y to try again!");
             ch=sc.next().charAt(0);
